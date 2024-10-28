@@ -1,5 +1,7 @@
 ## Hi there 👋
-Trying to do sth interesting and fill in the blanks in the image below.
+![example workflow](https://github.com/Macixowl/Macixowl/actions/workflows/profile-3d.yml/badge.svg)
+
+Trying to do sth interesting & fill in the blanks in the image below.
 
 To be finished...
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:✨
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ### 📊 This Week I Spent My Time On:
 
