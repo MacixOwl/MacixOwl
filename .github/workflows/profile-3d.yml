@@ -16,7 +16,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Pull changes
-        run: git pull origin main --strategy-option theirs || echo "No changes to pull or merge conflict"
+        run: |
+          git pull origin main --strategy-option theirs || echo "No changes to pull or merge conflict"
       - name: Commit & Push
         run: |
           git config user.name github-actions
