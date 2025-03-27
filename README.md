@@ -3,7 +3,7 @@
 
 Trying to do sth interesting & fill in the blanks in the image below.
 
-To be finished...
+🚧To be finished...
 
 <!--
 Here are some ideas to get you started:✨
